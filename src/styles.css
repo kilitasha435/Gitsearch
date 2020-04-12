@@ -1,1 +1,12 @@
-@import "~bootstrap/dist/css/bootstrap.css"
+@import "~bootstrap/dist/css/bootstrap.css";
+
+body{    
+ /* background-color: transparent; */
+ /* background-image: url("https://images.pexels.com/photos/2217373/pexels-photo-2217373.png?cs=srgb&dl=4k-coding-eat-sleep-code-life-of-programmer-2217373.jpg&fm=jpg"); */
+ background-position: fixed; 
+ background-size: cover;
+ background-repeat: no-repeat;
+ /* background-color: royalblue; */
+ -moz-background-size: cover;
+ -webkit-background-siz: cover;
+}
