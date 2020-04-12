@@ -25,6 +25,11 @@ h3{
 .avatar{
     border-radius: 50%;
 }
-#kili{
-    text-decoration: purple;
+.kili{
+  text-shadow: purple;
+  text-emphasis-color: white;
+}
+.shy{
+    margin-left: 35%;
+
 }
