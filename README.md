@@ -1,4 +1,4 @@
-# GITHUB-SEARCH
+# GIT-SEARCH
 
 ## Author
 
@@ -34,3 +34,31 @@ Behaviour input output page loads, reveals an interactive form that allows you t
 ~Step 2 : Navigate to the directory
 
 ~Step 3 : Open the directory created with your favorite I 
+~ Finally feel free to hack around the project.
+
+## Known Bugs
+
+-none
+
+## Technologies Used
+
+-Angular CLI 8
+
+-HTML
+
+-CSS
+
+-Bootsrap
+
+## Contact Me
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
+
+## Development Server
+
+To contact me Kindly email kilikevin435@gmail.com
+## License
+
+_MIT License:_[LICENSE MIT](./LICENSE)
+
+Copyright (c) 2020 **Kevin Kili** 
