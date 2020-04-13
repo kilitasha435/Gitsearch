@@ -8,7 +8,7 @@ Kevin Kili
 
 This is a website that allows one to search for his/her github repositories
 
--live link to my website is : 
+-live link to my website is : https://kilitasha435.github.io/Gitsearch/.
 
 ## Features
 
@@ -29,7 +29,7 @@ Behaviour input output page loads, reveals an interactive form that allows you t
 
 -Here is a run through of how to set up the application: 
 
-~Step 1 : Clone this repository using the git clone link:
+~Step 1 : Clone this repository using the git clone link:https://kilitasha435.github.io/Gitsearch/.
 
 ~Step 2 : Navigate to the directory
 
