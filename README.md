@@ -1,27 +1,64 @@
-# Git
+# GIT-SEARCH
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
+## Author
 
-## Development server
+Kevin Kili
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Description
 
-## Code scaffolding
+This is a website that allows one to search for his/her github repositories
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+-live link to my website is : 
 
-## Build
+## Features
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+-Interactive webpage with a small explanation of what it does.
 
-## Running unit tests
+-A form that enables the user to enter github name.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+-A Github portfolio of the user being entered in the form.
 
-## Running end-to-end tests
+-A view profile of the user on Github button
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+-Finally the repositories of the user display in a column-card form.
 
-## Further help
+## Behaviour Driven Development(BDD)
+Behaviour input output page loads, reveals an interactive form that allows you to enter your github username, a profile of the entered username displays with repositories of the user.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Setup/Installation Requirements
+
+-Here is a run through of how to set up the application: 
+
+~Step 1 : Clone this repository using the git clone link:
+
+~Step 2 : Navigate to the directory
+
+~Step 3 : Open the directory created with your favorite I 
+~ Finally feel free to hack around the project.
+
+## Known Bugs
+
+-none
+
+## Technologies Used
+
+-Angular CLI 8
+
+-HTML
+
+-CSS
+
+-Bootsrap
+
+## Contact Me
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
+
+## Development Server
+
+To contact me Kindly email kilikevin435@gmail.com
+## License
+
+_MIT License:_[LICENSE MIT](./LICENSE)
+
+Copyright (c) 2020 **Kevin Kili** 
