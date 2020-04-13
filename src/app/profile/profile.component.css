@@ -1,0 +1,40 @@
+.search-form{
+    padding-top: 50px;
+}
+.logo{
+    text-align: center;
+}
+
+.active-cycan input[type=text]{
+    border-bottom: 1px solid blue;
+    box-shadow: 0 1px 0 0 blue;
+}
+input{
+    width: 100%;
+}
+.card{
+    background-color: rgba(5, 146, 146, 0.6);
+    box-shadow: 3px 3px 5px purple;
+}
+.name{
+    font-family: 'Black And White Picture', sans-serif;
+}
+h3{
+    text-align: center;
+}
+.avatar{
+    border-radius: 50%;
+}
+.kili{
+  text-shadow: purple;
+  text-emphasis-color: white;
+}
+.shy{
+    margin-left: 35%;
+
+}
+.tasha{
+    font-family: 'Indie Flower', cursive;
+    /* text-decoration: seashell;
+    text-size-adjust: 30%; */
+}
