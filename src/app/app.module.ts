@@ -8,12 +8,16 @@ import { AppComponent } from './app.component';
 import {FormsModule } from '@angular/forms';
 import { ProfileComponent } from './profile/profile.component';
 import { ProfileService } from './profile.service';
+import { DatecountPipe } from './datecount.pipe';
+import { HighlightDirective } from './highlight.directive';
 // import { from } from 'rxjs';
 
 @NgModule({
   declarations: [
     AppComponent,
-    ProfileComponent
+    ProfileComponent,
+    DatecountPipe,
+    HighlightDirective
   ],
   imports: [
     BrowserModule,
