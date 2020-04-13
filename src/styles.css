@@ -2,12 +2,14 @@
 
 body{    
  /* background-color: transparent; */
- background-image: url("https://images.pexels.com/photos/2823459/pexels-photo-2823459.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
- background-position: fixed; 
+ background-image: url("https://images.pexels.com/photos/776636/pexels-photo-776636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+ /* background-position: fixed;  */
  background-size: cover;
  background-repeat: no-repeat;
+ background-attachment: fixed;
  /* background-color: royalblue; */
  -moz-background-size: cover;
  -webkit-background-siz: cover;
  /* background-size: 100%; */
+ background-size: 100%;
 }
