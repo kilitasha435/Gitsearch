@@ -19,8 +19,10 @@ input{
 .name{
     font-family: 'Black And White Picture', sans-serif;
 }
-h3{
+h2{
     text-align: center;
+    
+   
 }
 .avatar{
     border-radius: 50%;
